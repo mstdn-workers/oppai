@@ -1,7 +1,3 @@
-public class Worker{
-    public string Name { get; }
-}
-
 public class Workers : IEnumerable<Worker>
 {
     public readonly List<Worker> _workers = new List<Worker>();
