@@ -1,0 +1,16 @@
+# gitignore
+
+### OSX ###
+.DS_Store
+.sass-cache
+
+### Windows ###
+Thumbs.db
+
+### Vim ###
+.*.swp
+*~
+*.un
+
+### phpstorm ###
+.idea
