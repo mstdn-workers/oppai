@@ -3,7 +3,7 @@
 
 class Colorcone(object):
     def get_qualia(self):
-        print("oppai...")
+        print("oppai......!")
         
 
 oppai = Colorcone()
