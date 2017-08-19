@@ -1,0 +1,9 @@
+runtime: python27
+application: yun-chan
+version: 1
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: pypy.app
