@@ -1,5 +1,5 @@
 runtime: python27
-application: YUN-Chan
+application: yun-chan
 version: 1.0
 api_version: 1
 threadsafe: true
